@@ -30,7 +30,7 @@ WINDOWS
  python3 DDOS.py  or  py DDOS.py
 ```
 
-![image](https://user-images.githubusercontent.com/76851489/224462581-f3bdb2a2-e102-428e-8b94-bfd65611e95c.png)
+![image](https://user-images.githubusercontent.com/76851489/224462743-72b4fbed-0e4c-46f4-8c21-9ec90b7dbfb2.png)
 
 The more threads you place, the stronger the attack will be
 
