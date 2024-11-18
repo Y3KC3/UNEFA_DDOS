@@ -26,7 +26,7 @@ WINDOWS
 ```
  git clone https://github.com/Y3KC3/UNEFA_DDOS.git
  cd UNEFA_DDOS
- pip install -r colorama
+ pip install colorama
  python3 DDOS.py  or  py DDOS.py
 ```
 
